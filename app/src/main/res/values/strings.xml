@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TermsExampleCode</string>
+    <string name="title">이용약관</string>
+    <string name="all_agree_text">전체 동의하기</string>
+    <string name="complete_text">완료</string>
+    <string name="terms_title_required_true">(필수) %s</string>
+    <string name="terms_title_required_false">(선택) %s</string>
+</resources>
