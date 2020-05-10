@@ -20,8 +20,7 @@ class TermsActivity : AppCompatActivity(){
 
         setToolbar()
 
-        binding= DataBindingUtil.setContentView(this, R.layout.activity_temrs) //바인딩 셋팅
-
+        binding= DataBindingUtil.setContentView(this, R.layout.activity_temrs)
         binding.viewModel = termsViewModel
         binding.recyclerView.adapter = termsAdapter
 
